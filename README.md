@@ -69,7 +69,7 @@ typedef struct binary_tree_s binary_tree_t;
 ## Autor
 
 ```bash
-Ronald Rivero
+Fadeilou ALASSANE
 ```
 
 ### Connect
